@@ -1,0 +1,17 @@
+data/ifc.vhd.i
+data/ods.vhd.i
+data/input_channel.vhd.i
+data/testbench.vhd.i
+data/ors.vhd.i
+data/definitions.vhd.i
+data/circular_buffer.vhd.i
+data/ic.vhd.i
+data/output_channel.vhd.i
+data/irs.vhd.i
+data/router.vhd.i
+data/ib.vhd.i
+data/noc_testbench.vhd.i
+data/processor_store.vhd.i
+data/oc.vhd.i
+data/tb_router.vhd.i
+data/ofc.vhd.i
